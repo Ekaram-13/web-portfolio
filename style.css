@@ -12,6 +12,9 @@ h2{
 p{
     color: dimgray;
 }
+a.link-button{
+    color: white;
+}
 .orange-highlight{
     color: orange;
 }
@@ -39,6 +42,11 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.half-width a:hover{
+    background: none;
+    border: 1px dotted tomato;
+    color: Black;
 }
 .dream-area{
     background-image: url("images/dream-bg.png");
